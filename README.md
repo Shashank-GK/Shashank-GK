@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Programing in python,java and fullstck web development.
 - 📫 How to reach me:📬 shashankgk11@gmail.com 
 - ⚡ Fun fact: B.E in Electronics and Communication Engineering 🥹🧑‍
--->
+-->.
