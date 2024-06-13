@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently a Engineering Student 🧑‍🎓
+- 🔭 Hi I’m 🧑‍🎓
 - 🌱 I’m currently learning Fullstack Web Development 💻
 - 👯 I’m looking to collaborate on Fullstack Web Development,
 - 🤔 I’m looking for help with Programing in python,java and fullstck web development.
