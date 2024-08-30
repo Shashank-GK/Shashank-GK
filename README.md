@@ -7,8 +7,7 @@
 - 🤔 I’m looking for help with Programing in python,java and fullstck web development.
 - 📫 How to reach me:📬 shashankgk11@gmail.com 
 - ⚡ I have completed my Bachelor of Engineering in Electronics and Communication Engineering.
-- 
--->.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-gk-b8119a205) <br/>
