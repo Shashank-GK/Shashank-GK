@@ -4,7 +4,7 @@
 - 🔭 Hi, I’m Shashank G K
 - 🌱 I’m currently learning Fullstack Web Development 💻
 - 👯 I’m looking to collaborate on Fullstack Web Development,
-- 🤔 I’m looking for help with Programing in python,java and fullstck web development.
+- 🤔 I’m looking for help with Programing in python, java and fullstck web development.
 - 📫 How to reach me:📬 shashankgk11@gmail.com 
 - ⚡ I have completed my Bachelor of Engineering in Electronics and Communication Engineering.
 
